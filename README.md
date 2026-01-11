@@ -11,7 +11,7 @@ This project is an advanced refactor of Andrej Karpathy's **LLM Council**. We ha
 ## 📡 Distributed Infrastructure
 
 The system is distributed across four physical machines connected via a **Tailscale Mesh VPN**, allowing secure communication between diverse OS environments.
-
+![Distributed AI Layout](https://github.com/Krutik-Vanjara/gen_ai_llm_council/blob/main/web1.excalidraw%20(3).png)
 | Role | Name | IP Address | OS | Model |
 | --- | --- | --- | --- | --- |
 | **👑 Chairman** | `abhi` | `100.114.119.33` | Windows | `llama3.2:3b` |
