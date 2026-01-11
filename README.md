@@ -2,7 +2,7 @@
 
 # 🏛️ Distributed LLM Council
 
-> **A Decentralized Multi-Agent AI System powered by Ollama and Tailscale.**
+> **A Distributed Multi-model Local AI System powered by Ollama and Tailscale.**
 
 ## 📖 Project Overview
 
