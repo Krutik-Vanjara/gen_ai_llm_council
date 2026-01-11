@@ -16,7 +16,7 @@ The system is distributed across four physical machines connected via a **Tailsc
 | --- | --- | --- | --- | --- |
 | **👑 Chairman** | `abhi` | `100.114.119.33` | Windows | `llama3.2:3b` |
 | **⚖️ Council 1** | `JD` | `100.64.243.5` | Windows | `gemma2:2b` |
-| **⚖️ Council 2** | `Kuttu` | `100.123.209.93` | Linux (WSL2) | `llama3.2:1b` |
+| **⚖️ Council 2** | `Krutik` | `100.123.209.93` | Linux (WSL2) | `llama3.2:1b` |
 | **⚖️ Council 3** | `Samuel` | `100.120.97.23` | Windows | `qwen2.5:3b` |
 
 ## ⚙️ Council Workflow
