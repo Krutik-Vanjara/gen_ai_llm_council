@@ -82,5 +82,5 @@ streamlit run frontend/dashboard.py
 
 ---
 
-**Team Members:** Abhi, JD, Krutik, Samuel | **TD Group:** [Your Group Name]
+**Team Members:** Abhi, JD, Krutik, Samuel | **TD Group:** Group-3 
 
